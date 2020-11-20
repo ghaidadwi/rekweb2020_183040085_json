@@ -1,0 +1,10 @@
+{
+    "nama" : "Ghaida Dwi F",
+    "umur" : 20,
+    "nrp" : "183040085",
+    "lulus": true,
+    "hobby": [
+        "Movie",
+        "Music"
+    ]
+}
